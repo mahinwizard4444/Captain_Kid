@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/e468691a001d5e2bc14df.jpg
+[![For Vaza](https://telegra.ph/file/e468691a001d5e2bc14df.jpg)]
 " alt="DQ-The-File-Donor Logo">
 </p>
 <h1 align="center">
